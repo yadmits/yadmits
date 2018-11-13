@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yadmit.com" resolutions="1x" timestamp="1535654318300">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yadmits.com" resolutions="1x" timestamp="1542100853867">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="130515733" ref="index"/>
-    <file name="apps.css" crc="22553094" ref="apps"/>
-    <file name="websites.css" crc="368371405" ref="websites"/>
-    <file name="polygraphy.css" crc="393370275" ref="polygraphy"/>
+    <file name="websites.css" crc="21824737" ref="websites"/>
+    <file name="index.css" crc="193027217" ref="index"/>
+    <file name="polygraphy.css" crc="3836016707" ref="polygraphy"/>
+    <file name="apps.css" crc="63025965" ref="apps"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:apps:websites:polygraphy"/>
@@ -19,61 +19,57 @@
     <file name="touchswipe.js" crc="4075097462" ref="apps:websites:polygraphy"/>
   </folder>
   <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:apps:websites:polygraphy"/>
     <file name="arrow left.png" crc="4022773984" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="home-копия" alt=""/>
-      <caption webpage="apps" alt=""/>
+    </file>
+    <file name="sm1.png" crc="3781946183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="слой 3.png" crc="91130749" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
     <file name="arrow down.png" crc="130019370" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="home-копия" alt=""/>
+    </file>
+    <file name="слой 5 копия копия.png" crc="3814377843" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="macbook.png" crc="3900968752" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="слой 8.png" crc="28568392" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sm2.png" crc="3830927708" seo="true" ref="index:apps:websites:polygraphy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="polygraphy" alt=""/>
+      <caption webpage="websites" alt=""/>
+      <caption webpage="apps" alt=""/>
+    </file>
+    <file name="tg.png" crc="511795835" seo="true" ref="index:apps:websites:polygraphy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="polygraphy" alt=""/>
+      <caption webpage="websites" alt=""/>
+      <caption webpage="apps" alt=""/>
+    </file>
+    <file name="vk.png" crc="4059672977" seo="true" ref="index:apps:websites:polygraphy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="polygraphy" alt=""/>
+      <caption webpage="websites" alt=""/>
       <caption webpage="apps" alt=""/>
     </file>
     <file name="inst.png" crc="4196057509" seo="true" ref="index:apps:websites:polygraphy">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-копия" alt=""/>
-      <caption webpage="apps" alt=""/>
       <caption webpage="polygraphy" alt=""/>
       <caption webpage="websites" alt=""/>
-    </file>
-    <file name="tg.png" crc="511795835" seo="true" ref="index:apps:websites:polygraphy">
-      <caption webpage="index" alt=""/>
-      <caption webpage="home-копия" alt=""/>
       <caption webpage="apps" alt=""/>
-      <caption webpage="polygraphy" alt=""/>
-      <caption webpage="websites" alt=""/>
     </file>
-    <file name="vk.png" crc="4059672977" seo="true" ref="index:apps:websites:polygraphy">
-      <caption webpage="index" alt=""/>
-      <caption webpage="home-копия" alt=""/>
-      <caption webpage="apps" alt=""/>
-      <caption webpage="polygraphy" alt=""/>
-      <caption webpage="websites" alt=""/>
-    </file>
-    <file name="sm2.png" crc="3830927708" seo="true" ref="index:apps:websites:polygraphy">
-      <caption webpage="index" alt=""/>
-      <caption webpage="home-копия" alt=""/>
-      <caption webpage="apps" alt=""/>
-      <caption webpage="polygraphy" alt=""/>
-      <caption webpage="websites" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index:apps:websites:polygraphy"/>
     <file name="arrow right dark.png" crc="4004577225" seo="true" ref="apps:websites:polygraphy">
-      <caption webpage="polygraphy" alt=""/>
-      <caption webpage="websites" alt=""/>
-      <caption webpage="apps" alt=""/>
-    </file>
-    <file name="loading.gif" crc="3815509949" ref="apps:websites:polygraphy"/>
-    <file name="slider arrow.png" crc="413247065" ref="apps:websites:polygraphy">
-      <caption webpage="polygraphy" alt=""/>
-      <caption webpage="websites" alt=""/>
-      <caption webpage="apps" alt=""/>
-    </file>
-    <file name="slider arrow right.png" crc="351422692" ref="apps:websites:polygraphy">
       <caption webpage="polygraphy" alt=""/>
       <caption webpage="websites" alt=""/>
       <caption webpage="apps" alt=""/>
@@ -81,12 +77,6 @@
     <file name="111111.png" crc="241691889" seo="true" ref="apps:websites:polygraphy">
       <caption webpage="polygraphy" alt=""/>
       <caption webpage="websites" alt=""/>
-      <caption webpage="apps" alt=""/>
-    </file>
-    <file name="np-crop-u2303.jpg" crc="124096785" seo="true" ref="apps">
-      <caption webpage="apps" alt=""/>
-    </file>
-    <file name="wtf0,25(2)-crop-u2323.png" crc="320464955" seo="true" ref="apps">
       <caption webpage="apps" alt=""/>
     </file>
     <file name="np.jpg" crc="306382576" seo="true" ref="apps:websites:polygraphy">
@@ -117,6 +107,12 @@
     <file name="11111190x80.png" crc="193767028" seo="true" ref="apps">
       <caption webpage="apps" alt=""/>
     </file>
+    <file name="np-crop-u2303.jpg" crc="124096785" seo="true" ref="apps">
+      <caption webpage="apps" alt=""/>
+    </file>
+    <file name="wtf0,25(2)-crop-u2323.png" crc="320464955" seo="true" ref="apps">
+      <caption webpage="apps" alt=""/>
+    </file>
     <file name="чб99x68.png" crc="335109647" seo="true" ref="apps">
       <caption webpage="apps" alt=""/>
     </file>
@@ -126,14 +122,28 @@
     <file name="fb shit298x68.jpg" crc="16506426" seo="true" ref="apps">
       <caption webpage="apps" alt=""/>
     </file>
-    <file name="sm1.png" crc="3781946183" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="slider arrow.png" crc="413247065" ref="apps:websites:polygraphy">
+      <caption webpage="polygraphy" alt=""/>
+      <caption webpage="websites" alt=""/>
+      <caption webpage="apps" alt=""/>
     </file>
+    <file name="slider arrow right.png" crc="351422692" ref="apps:websites:polygraphy">
+      <caption webpage="polygraphy" alt=""/>
+      <caption webpage="websites" alt=""/>
+      <caption webpage="apps" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="apps:websites:polygraphy"/>
     <file name="np-crop-u2735.jpg" crc="124096785" seo="true" ref="websites">
       <caption webpage="websites" alt=""/>
     </file>
     <file name="wtf0,25(2)-crop-u2737.png" crc="320464955" seo="true" ref="websites">
       <caption webpage="websites" alt=""/>
+    </file>
+    <file name="caramel.jpg" crc="4189289407" seo="true" ref="polygraphy">
+      <caption webpage="polygraphy" alt=""/>
+    </file>
+    <file name="caramel-crop-u3703.jpg" crc="4289048586" seo="true" ref="polygraphy">
+      <caption webpage="polygraphy" alt=""/>
     </file>
     <file name="np-crop-u3017.jpg" crc="124096785" seo="true" ref="polygraphy">
       <caption webpage="polygraphy" alt=""/>
@@ -142,8 +152,8 @@
       <caption webpage="polygraphy" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4195617733" seo="true" mt="1535651965577" redirect="true"/>
-  <file name="apps.html" crc="54723404" seo="true" mt="1535649741408" redirect="true"/>
-  <file name="websites.html" crc="390267416" seo="true" mt="1535649812024" redirect="true"/>
-  <file name="polygraphy.html" crc="4078676144" seo="true" mt="1535649825780" redirect="true"/>
+  <file name="index.html" crc="3981474075" seo="true" mt="1542096105458" redirect="true"/>
+  <file name="apps.html" crc="4125721882" seo="true" mt="1542096117408" redirect="true"/>
+  <file name="websites.html" crc="366521850" seo="true" mt="1542096122855" redirect="true"/>
+  <file name="polygraphy.html" crc="220356027" seo="true" mt="1542098755568" redirect="true"/>
 </manifest>

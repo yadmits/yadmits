@@ -1,177 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://yadmit.com/index.html</loc>
-    <lastmod>2018-08-30</lastmod>
+    <loc>http://yadmits.com/index.html</loc>
+    <lastmod>2018-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://yadmit.com/images/arrow%20left.png</image:loc>
+      <image:loc>http://yadmits.com/images/arrow%20left.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/arrow%20down.png</image:loc>
+      <image:loc>http://yadmits.com/images/sm1.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/inst.png</image:loc>
+      <image:loc>http://yadmits.com/images/%D1%81%D0%BB%D0%BE%D0%B9%203.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/tg.png</image:loc>
+      <image:loc>http://yadmits.com/images/arrow%20down.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/vk.png</image:loc>
+      <image:loc>http://yadmits.com/images/%D1%81%D0%BB%D0%BE%D0%B9%205%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/sm2.png</image:loc>
+      <image:loc>http://yadmits.com/images/macbook.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/sm1.png</image:loc>
+      <image:loc>http://yadmits.com/images/%D1%81%D0%BB%D0%BE%D0%B9%208.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yadmits.com/images/sm2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yadmits.com/images/tg.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yadmits.com/images/vk.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yadmits.com/images/inst.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://yadmit.com/apps.html</loc>
-    <lastmod>2018-08-30</lastmod>
+    <loc>http://yadmits.com/apps.html</loc>
+    <lastmod>2018-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://yadmit.com/images/inst.png</image:loc>
+      <image:loc>http://yadmits.com/images/sm2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/tg.png</image:loc>
+      <image:loc>http://yadmits.com/images/tg.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/vk.png</image:loc>
+      <image:loc>http://yadmits.com/images/vk.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/sm2.png</image:loc>
+      <image:loc>http://yadmits.com/images/inst.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/arrow%20right%20dark.png</image:loc>
+      <image:loc>http://yadmits.com/images/arrow%20right%20dark.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/111111.png</image:loc>
+      <image:loc>http://yadmits.com/images/111111.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/np-crop-u2303.jpg</image:loc>
+      <image:loc>http://yadmits.com/images/np.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/wtf0,25(2)-crop-u2323.png</image:loc>
+      <image:loc>http://yadmits.com/images/wtf0,25(2).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/np.jpg</image:loc>
+      <image:loc>http://yadmits.com/images/%D1%87%D0%B1.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/wtf0,25(2).png</image:loc>
+      <image:loc>http://yadmits.com/images/untitled%204.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/%D1%87%D0%B1.png</image:loc>
+      <image:loc>http://yadmits.com/images/fb%20shit2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/untitled%204.png</image:loc>
+      <image:loc>http://yadmits.com/images/11111190x80.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/fb%20shit2.jpg</image:loc>
+      <image:loc>http://yadmits.com/images/np-crop-u2303.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/11111190x80.png</image:loc>
+      <image:loc>http://yadmits.com/images/wtf0,25(2)-crop-u2323.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/%D1%87%D0%B199x68.png</image:loc>
+      <image:loc>http://yadmits.com/images/%D1%87%D0%B199x68.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/untitled%204101x68.png</image:loc>
+      <image:loc>http://yadmits.com/images/untitled%204101x68.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/fb%20shit298x68.jpg</image:loc>
+      <image:loc>http://yadmits.com/images/fb%20shit298x68.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://yadmit.com/websites.html</loc>
-    <lastmod>2018-08-30</lastmod>
+    <loc>http://yadmits.com/websites.html</loc>
+    <lastmod>2018-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://yadmit.com/images/inst.png</image:loc>
+      <image:loc>http://yadmits.com/images/sm2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/tg.png</image:loc>
+      <image:loc>http://yadmits.com/images/tg.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/vk.png</image:loc>
+      <image:loc>http://yadmits.com/images/vk.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/sm2.png</image:loc>
+      <image:loc>http://yadmits.com/images/inst.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/arrow%20right%20dark.png</image:loc>
+      <image:loc>http://yadmits.com/images/arrow%20right%20dark.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/111111.png</image:loc>
+      <image:loc>http://yadmits.com/images/111111.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/np.jpg</image:loc>
+      <image:loc>http://yadmits.com/images/np.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/wtf0,25(2).png</image:loc>
+      <image:loc>http://yadmits.com/images/wtf0,25(2).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/%D1%87%D0%B1.png</image:loc>
+      <image:loc>http://yadmits.com/images/%D1%87%D0%B1.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/untitled%204.png</image:loc>
+      <image:loc>http://yadmits.com/images/untitled%204.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/fb%20shit2.jpg</image:loc>
+      <image:loc>http://yadmits.com/images/fb%20shit2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/np-crop-u2735.jpg</image:loc>
+      <image:loc>http://yadmits.com/images/np-crop-u2735.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/wtf0,25(2)-crop-u2737.png</image:loc>
+      <image:loc>http://yadmits.com/images/wtf0,25(2)-crop-u2737.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://yadmit.com/polygraphy.html</loc>
-    <lastmod>2018-08-30</lastmod>
+    <loc>http://yadmits.com/polygraphy.html</loc>
+    <lastmod>2018-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://yadmit.com/images/inst.png</image:loc>
+      <image:loc>http://yadmits.com/images/sm2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/tg.png</image:loc>
+      <image:loc>http://yadmits.com/images/tg.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/vk.png</image:loc>
+      <image:loc>http://yadmits.com/images/vk.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/sm2.png</image:loc>
+      <image:loc>http://yadmits.com/images/inst.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/arrow%20right%20dark.png</image:loc>
+      <image:loc>http://yadmits.com/images/arrow%20right%20dark.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/111111.png</image:loc>
+      <image:loc>http://yadmits.com/images/111111.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/np.jpg</image:loc>
+      <image:loc>http://yadmits.com/images/np.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/wtf0,25(2).png</image:loc>
+      <image:loc>http://yadmits.com/images/wtf0,25(2).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/%D1%87%D0%B1.png</image:loc>
+      <image:loc>http://yadmits.com/images/%D1%87%D0%B1.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/untitled%204.png</image:loc>
+      <image:loc>http://yadmits.com/images/untitled%204.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/fb%20shit2.jpg</image:loc>
+      <image:loc>http://yadmits.com/images/fb%20shit2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/np-crop-u3017.jpg</image:loc>
+      <image:loc>http://yadmits.com/images/caramel.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yadmit.com/images/wtf0,25(2)-crop-u3019.png</image:loc>
+      <image:loc>http://yadmits.com/images/caramel-crop-u3703.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yadmits.com/images/np-crop-u3017.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yadmits.com/images/wtf0,25(2)-crop-u3019.png</image:loc>
     </image:image>
   </url>
 </urlset>
